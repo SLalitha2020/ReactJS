@@ -8,3 +8,7 @@ Related information
 ~~text~~
 
 _text_
+------|--------|--------
+|Name | RollNo | College|
+------|--------|--------
+|S.Lalitha|100|Loyola|
